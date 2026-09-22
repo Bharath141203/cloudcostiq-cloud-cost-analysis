@@ -72,7 +72,7 @@ The project uses synthetic monthly cloud billing and resource utilization data c
        ↓
 🎯 Cost Optimization Recommendations
 
-## ☁️ PowerBI Dashboard Preview
+## 📈 PowerBI Dashboard Preview
 <img width="1001" height="598" alt="Overview (1)" src="https://github.com/user-attachments/assets/3e3d28b4-8329-4f81-9567-73b7d06aceca" />
 “If you want to view the complete project, I have included all the project pages in the Screenshots section.”
 
