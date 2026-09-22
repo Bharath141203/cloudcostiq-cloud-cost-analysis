@@ -58,7 +58,6 @@ The project uses synthetic monthly cloud billing and resource utilization data c
 
 ## 🔄 Project Workflow
 
-```text
 📂 Raw Cloud Data
        ↓
 📗 Excel – Data Preparation
