@@ -1,9 +1,5 @@
 # ☁️ CLOUDCOSTIQ – Multi-Cloud Cost & Resource Optimization Analytics
 
-> A data analytics project focused on understanding cloud spending, resource utilization, and potential cost optimization opportunities across AWS, Azure, and GCP.
-
----
-
 ## 📌 About the Project
 
 CLOUDCOSTIQ is an end-to-end data analytics project built to analyze cloud billing and resource utilization data across **AWS, Microsoft Azure, and Google Cloud Platform (GCP)**.
@@ -22,8 +18,6 @@ When resource usage is not monitored regularly, organizations may continue payin
 
 **CLOUDCOSTIQ** addresses this problem by combining billing data with utilization metrics to identify potential optimization opportunities.
 
----
-
 ## 🎯 Project Objectives
 
 - Analyze cloud spending across AWS, Azure, and GCP
@@ -34,8 +28,6 @@ When resource usage is not monitored regularly, organizations may continue payin
 - Calculate potential cost savings
 - Build an interactive Power BI dashboard
 - Generate practical business recommendations
-
----
 
 ## 🛠️ Tools & Technologies
 
@@ -49,7 +41,6 @@ When resource usage is not monitored regularly, organizations may continue payin
 | 📈 **Power BI** | Interactive dashboard and business insights |
 | 🐙 **GitHub** | Project documentation and version control |
 
----
 
 ## ☁️ Cloud Platforms
 
@@ -81,3 +72,6 @@ The project uses synthetic monthly cloud billing and resource utilization data c
 💡 Business Insights
        ↓
 🎯 Cost Optimization Recommendations
+
+## 👨‍💻 Created By
+ Bharath Sankar
